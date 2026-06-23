@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: "Home"
+layout: splash
 permalink: /
+title: "Riccardo Manghi"
 ---
 
 # Riccardo Manghi
@@ -9,4 +9,4 @@ permalink: /
 **Postdoctoral Researcher in Economics**  
 LUISS Guido Carli University
 
-Welcome to my academic website.
+Welcome to my personal academic website.
